@@ -1,0 +1,1 @@
+Simpan foto final di folder ini. Ganti URL foto contoh pada index.html dengan path file foto lokal.
